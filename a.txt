@@ -1,2 +1,487 @@
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ls
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ls -la
+total 4
+drwxr-xr-x 1 GMX+004DHN744 4096 0 Dec 26 12:48 ./
+drwxr-xr-x 1 GMX+004DHN744 4096 0 Dec 26 12:47 ../
+drwxr-xr-x 1 GMX+004DHN744 4096 0 Dec 26 12:55 .git/
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ echo "helloo first git" > a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        a.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$
+Display all 5680 possibilities? (y or n)
+!                                                                        dirname.exe
+./                                                                       dirs
+07409496-a423-4a3e-b620-2cfb01a9318d_HyperV-ComputeNetwork.dll           discan.dll
+69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll                 diskpart.exe
+6bea57fb-8dfb-4177-9ae8-42e8b3529933_RuntimeDeviceInstall.dll            diskperf.exe
+:                                                                        diskraid.exe
+ACPBackgroundManagerPolicy.dll                                           disown
+AJRouter.dll                                                             dispdiag.exe
+APHostClient.dll                                                         dispex.dll
+APHostRes.dll                                                            djctq.rs
+APHostService.dll                                                        djoin.exe
+APMon.dll                                                                dllhost.exe
+APMonUI.dll                                                              dllhst3g.exe
+ARP.EXE                                                                  dlnashext.dll
+AUDIOKSE.dll                                                             dmcertinst.exe
+AUTOADMIN.dll                                                            dmcfghost.exe
+AarSvc.dll                                                               dmcfgutils.dll
+AboutSettingsHandlers.dll                                                dmclient.exe
+AboveLockAppHost.dll                                                     dmcmnutils.dll
+AcGenral.dll                                                             dmcommandlineutils.dll
+AcLayers.dll                                                             dmcsps.dll
+AcSpecfc.dll                                                             dmdlgs.dll
+AcWinRT.dll                                                              dmdskmgr.dll
+AcXtrnal.dll                                                             dmdskres.dll
+AccountsRt.dll                                                           dmdskres2.dll
+ActionCenter.dll                                                         dmenrollengine.dll
+ActionCenterCPL.dll                                                      dmenterprisediagnostics.dll
+ActionQueue.dll                                                          dmintf.dll
+ActivationClient.dll                                                     dmiso8601utils.dll
+ActivationManager.dll                                                    dmloader.dll
+ActiveSyncCsp.dll                                                        dmocx.dll
+ActiveSyncProvider.dll                                                   dmoleaututils.dll
+AdaptiveCards.dll                                                        dmprocessxmlfiltered.dll
+AddressParser.dll                                                        dmpushproxy.dll
+AdmTmpl.dll                                                              dmsynth.dll
+AdvancedEmojiDS.dll                                                      dmusic.dll
+AgentService.exe                                                         dmutil.dll
+Analog.Shell.Broker.dll                                                  dmvdsitf.dll
+AnalogCommonProxyStub.dll                                                dmview.ocx
+ApiSetHost.AppExecutionAlias.dll                                         dmwappushsvc.dll
+AppContracts.dll                                                         dmwmicsp.dll
+AppExtension.dll                                                         dmxmlhelputils.dll
+AppHostRegistrationVerifier.exe                                          dnsapi.dll
+AppIdPolicyEngineApi.dll                                                 dnscacheugc.exe
+AppInstallerPrompt.Desktop.dll                                           dnsclientcim.dll
+AppListBackupLauncher.dll                                                dnsclientpsprovider.dll
+AppLockerCSP.dll                                                         dnscmmc.dll
+AppManagementConfiguration.dll                                           dnsext.dll
+AppMon.dll                                                               dnshc.dll
+AppReadiness.dll                                                         dnsrslvr.dll
+AppResolver.dll                                                          do
+AppVCatalog.dll                                                          docker
+AppVClient.exe                                                           docker-compose
+AppVClientPS.dll                                                         docker-compose-v1.exe
+AppVDllSurrogate.exe                                                     docker-compose.exe
+AppVEntStreamingManager.dll                                              docker-credential-desktop.exe
+AppVEntSubsystemController.dll                                           docker-credential-ecr-login.exe
+AppVEntSubsystems64.dll                                                  docker-credential-wincred.exe
+AppVEntVirtualization.dll                                                docker-index.exe
+AppVFileSystemMetadata.dll                                               docker.exe
+AppVIntegration.dll                                                      docprop.dll
+AppVManifest.dll                                                         docx2txt
+AppVNice.exe                                                             docx2txt.pl
+AppVOrchestration.dll                                                    domgmt.dll
+AppVPolicy.dll                                                           done
+AppVPublishing.dll                                                       dos2unix.exe
+AppVReporting.dll                                                        dosettings.dll
+AppVScripting.dll                                                        doskey.exe
+AppVSentinel.dll                                                         dosvc.dll
+AppVShNotify.exe                                                         dot3api.dll
+AppVStreamMap.dll                                                        dot3cfg.dll
+AppVStreamingUX.dll                                                      dot3dlg.dll
+AppVTerminator.dll                                                       dot3gpclnt.dll
+AppXApplicabilityBlob.dll                                                dot3gpui.dll
+AppXDeploymentClient.dll                                                 dot3hc.dll
+AppXDeploymentExtensions.desktop.dll                                     dot3mm.dll
+AppXDeploymentExtensions.onecore.dll                                     dot3msm.dll
+AppXDeploymentServer.dll                                                 dot3svc.dll
+Apphlpdm.dll                                                             dot3ui.dll
+ApplicationControlCSP.dll                                                dpapi.dll
+ApplicationFrame.dll                                                     dpapimig.exe
+ApplicationFrameHost.exe                                                 dpapiprovider.dll
+ApplySettingsTemplateCatalog.exe                                         dpapisrv.dll
+ApplyTrustOffline.exe                                                    dpnaddr.dll
+AppointmentActivation.dll                                                dpnathlp.dll
+AppointmentApis.dll                                                      dpnet.dll
+ApproveChildRequest.exe                                                  dpnhpast.dll
+AppvClientEventLog.dll                                                   dpnhupnp.dll
+AppxAllUserStore.dll                                                     dpnlobby.dll
+AppxApplicabilityEngine.dll                                              dpnsvr.exe
+AppxPackaging.dll                                                        dps.dll
+AppxSip.dll                                                              dpx.dll
+AppxStreamingDataSourcePS.dll                                            driverquery.exe
+AppxSysprep.dll                                                          drprov.dll
+AssignedAccessCsp.dll                                                    drt.dll
+AssignedAccessGuard.exe                                                  drtprov.dll
+AssignedAccessManager.dll                                                drttransport.dll
+AssignedAccessRuntime.dll                                                drvinst.exe
+AssignedAccessShellProxy.dll                                             drvsetup.dll
+AtBroker.exe                                                             drvstore.dll
+Atlassian.Bitbucket.UI.Shared.dll                                        dsauth.dll
+Atlassian.Bitbucket.UI.exe                                               dsclient.dll
+Atlassian.Bitbucket.dll                                                  dscproxy.dll
+AudioEndpointBuilder.dll                                                 dsdmo.dll
+AudioEng.dll                                                             dskquota.dll
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git add .
+warning: in the working copy of 'a.txt', LF will be replaced by CRLF the next time Git touches it
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   a.txt
+
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -s
+100644 b1ee17f1ec9c3c75c214c61935115e453a22170d 0       a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files
+a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ^C
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ^C
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -t  b1ee17
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -s
+100644 b1ee17f1ec9c3c75c214c61935115e453a22170d 0       a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -t  b1ee17
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-files -t  b1ee17
+git: 'cat-files' is not a git command. See 'git --help'.
+
+The most similar command is
+        cat-file
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-files -t b1ee17
+git: 'cat-files' is not a git command. See 'git --help'.
+
+The most similar command is
+        cat-file
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -t b1ee17
+blob
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -p b1ee17
+helloo first git
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ echo "helloo first git ADDING NEW FILE" >> a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -p b1ee17
+helloo first git
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ cat a.txt
 helloo first git
 helloo first git ADDING NEW FILE
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -p b1ee17
+helloo first git
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   a.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   a.txt
+
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git add .
+warning: in the working copy of 'a.txt', LF will be replaced by CRLF the next time Git touches it
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -s
+100644 9c9f2d87267b777e17c8601eb6086f3647e9b6e2 0       a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ^C
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -p  9c9f2d
+helloo first git
+helloo first git ADDING NEW FILE
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -p  9c9f2d
+helloo first git
+helloo first git ADDING NEW FILE
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m "initial commit"
+[master (root-commit) 6f998c5] initial commit
+ Committer: Himanshu chauhan <himanshu.chauhan@ibm.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+ create mode 100644 a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -t  9c9f2d
+blob
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -t  9c9f2d
+blob
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m "initial commit"
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m " initial commit"
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -t  9c9f2d
+blob
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git cat-file -t  9c9f2d
+blob
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m " initial commit"
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git conf --h
+git: 'conf' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git config --global  user.name "Himanshu Chauhan"
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git config --global  user.email "Himanshuch1345@gmail.com"
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Himanshu Chauhan
+user.email=Himanshuch1345@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$  git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=Himanshu Chauhan
+user.email=Himanshuch1345@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m "initial commit"
+On branch master
+nothing to commit, working tree clean
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files-s
+git: 'ls-files-s' is not a git command. See 'git --help'.
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls files-s
+git: 'ls' is not a git command. See 'git --help'.
+
+The most similar command is
+        lfs
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -s
+100644 9c9f2d87267b777e17c8601eb6086f3647e9b6e2 0       a.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ echo "second file ">b.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git add .
+warning: in the working copy of 'b.txt', LF will be replaced by CRLF the next time Git touches it
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git commit -m "initial commit"
+[master 9364d32] initial commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 b.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ git ls-files -s
+100644 9c9f2d87267b777e17c8601eb6086f3647e9b6e2 0       a.txt
+100644 c2b0a144025b9921e4bcc328efb5e0387f5f04ff 0       b.txt
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ls .git/object
+ls: cannot access '.git/object': No such file or directory
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$ ls .git/objects
+45/  6f/  93/  9c/  b1/  c2/  ee/  info/  pack/
+
+GMX+004DHN744@IBM-PF3XMTKF MINGW64 /c/workspace/Gitdemo (master)
+$
